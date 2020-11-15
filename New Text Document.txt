@@ -1,0 +1,29 @@
+From akankshakothari to Everyone:  07:25 PM
+----
+- name: Run on remote host
+  hosts: local
+
+tasks:
+  - name: run python script locally
+    command: python test.py  -o {org name} -p {pat}
+
+
+create- requirement.txt
+
+1) installation of packages
+
+
+2) give command line output of json(presently and akansha will verify on her docker or whatever)
+3) 
+
+
+
+
+what is yhml file?
+what is dot file?
+unable to say jason response in ansible
+
+first task - priority-need to show json response in ansible for any 
+
+
+
